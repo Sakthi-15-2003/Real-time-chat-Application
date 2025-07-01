@@ -55,4 +55,5 @@ WebSocket API – Real-time data simulation
 
 
              OUTPUT:
+![Image](https://github.com/user-attachments/assets/3632e604-5445-4847-b072-1ed700c5d426)
              
